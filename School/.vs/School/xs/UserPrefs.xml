@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BDC537D3-5D9F-429F-92AD-A3351E268B5C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="School/Program.cs">
+    <Files>
+      <File FileName="School/Program.cs" Line="13" Column="4" />
+      <File FileName="School/Student.cs" Line="22" Column="23" />
+      <File FileName="School/document.txt" Line="10" Column="1" />
+      <File FileName="School/Course.cs" Line="1" Column="1" />
+      <File FileName="School/Teacher.cs" Line="1" Column="1" />
+      <File FileName="School/Equipment.cs" Line="1" Column="1" />
+      <File FileName="School/Person.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="School" expanded="True">
+            <Node name="School" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.School FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

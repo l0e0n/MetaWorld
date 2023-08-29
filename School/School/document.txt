@@ -1,0 +1,30 @@
+﻿Student:
+    add course >>"Can select schedule
+    takeExam >>"will be pass
+    show grades
+    show schedule/courses= all details
+    
+    
+    
+
+
+Teacher:
+    add student
+    student attend
+
+    add courses >> #ofRooms
+
+    add equp.
+    search equp.
+
+    hire teacher
+    fire ...
+
+    
+     
+    
+    
+
+
+
+
